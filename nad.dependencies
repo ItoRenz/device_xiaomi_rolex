@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "ItoRenz/kernel_xiaomi_rolex",
+   "target_path": "kernel/xiaomi/msm8917",
+   "remote": "github",
+   "branch": "shuna"
+ },
+ {
+    "repository": "ItoRenz/android_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "remote": "github",
+    "branch": "10"
+  }
+]
